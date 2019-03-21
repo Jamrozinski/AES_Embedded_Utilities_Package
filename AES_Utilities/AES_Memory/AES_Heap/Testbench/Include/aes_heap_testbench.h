@@ -1,0 +1,17 @@
+/*
+ * aes_mem_manager_testbench.h
+ *
+ *  Created on: Jan 16, 2019
+ *      Author: AES_Local
+ */
+
+#ifndef SUBMODULES_AES_UTILITIES_AES_MEM_MANAGER_TESTBENCH_INCLUDE_AES_MEM_MANAGER_TESTBENCH_H_
+#define SUBMODULES_AES_UTILITIES_AES_MEM_MANAGER_TESTBENCH_INCLUDE_AES_MEM_MANAGER_TESTBENCH_H_
+
+int tb_mem_manager_init( void * ptr);
+int tb_mem_manager_complete();
+
+
+
+
+#endif /* SUBMODULES_AES_UTILITIES_AES_MEM_MANAGER_TESTBENCH_INCLUDE_AES_MEM_MANAGER_TESTBENCH_H_ */
